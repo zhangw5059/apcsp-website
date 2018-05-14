@@ -1,13 +1,19 @@
 body {
-    
+ 	background-color: #c0c0c0;   
 }
 
-<<<<<<< HEAD
 h1 {
     text-align: center;
 }
 
+#brad {
+	text-align: right;
+}
 
+h2 {
+	text-decoration: underline;
+}
 
-=======
->>>>>>> a7e90367b3135e2823d72d13423a60ec89e4176e
+h1, h2 {
+	color: #660000;
+}
