@@ -22,7 +22,7 @@ ul {
     background-color: #c0c0c0;
 }
 li {
-    float: left;
+    display: inline;
 }
 li a {
     display: block;
