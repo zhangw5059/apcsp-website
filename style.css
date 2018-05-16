@@ -11,6 +11,12 @@ h1 {
     text-align: right;
 }
 
+p#cautionary {
+    text-transform: uppercase;
+    color: #ff0000;
+    font-size: 30px;
+}
+
 h2 {
     text-decoration: underline;
     color: #660000;
@@ -34,4 +40,10 @@ li a {
 li a:hover {
     background-color: #660000;
     color: #c0c0c0;
+}
+table {
+    
+}
+th, td {
+    border: 1px solid black;
 }
